@@ -5,3 +5,5 @@ El sistema de gestion contiene información organizativa de diferentes áreas de
 El objetivo del sistema es agregrar valor a travez del uso de la tecnología, al integrar lo sistemas de información institucional para mejorar los servicios de la universidad.
 
 ![estructura](/img/estructura.png)
+
+Autor: Edgar Javier Peña Hernandez
