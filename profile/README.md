@@ -9,6 +9,5 @@ El objetivo del sistema es agregrar valor a travez del uso de la tecnología, al
 ## Plugins
 [TowFactor](./2fa.md) Autor:@akosej
 
-[AccessCredentialCard](./credentials.md) Autor:@akosej
-
-[Ldap](./credentials.md) Autor:@akosej
+## Modules
+[ModuleComputerSecurity](./moduleComputerSecurity.md) Autor:@akosej

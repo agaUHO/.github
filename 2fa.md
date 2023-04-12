@@ -6,20 +6,6 @@
 
 [@akosej](https://github.com/akosej)
 
-## Compilation
-
-`> go build -buildmode=plugin -trimpath -o 2fa_url.plugins ./main.go`
-
-`> cp 2fa_url.plugins pathAGA/plugins/`
-
-### Functions exported
-```go 
-F2a(secret ...interface{}) interface{ any }
-``` 
-```go 
-GetQr(secret ...interface{}) interface{ any }
-```
-
 ## How to use
 
 1. Get 2fa Code.
