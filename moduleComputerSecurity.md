@@ -3,6 +3,11 @@
 
 ![logo](./seginfLogo.png)
 
+### Developers
+[@akosej](https://github.com/akosej)
+[@TheRealVizard](https://github.com/TheRealVizard)
+
+
 ## Searches and filters
    + `/computer-security/ldap/list-all`
      + Output is a json

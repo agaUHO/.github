@@ -2,33 +2,9 @@
 
 **2fa**
 
-### Autor
-
+### Developers
 [@akosej](https://github.com/akosej)
-
-## How to use
-
-1. Get 2fa Code.
-
-```go
-result := system.ExtractFunctionsPlugins(
-"2fa",
-"F2a",
-"user@domain")
-
-fmt.Println(result)
-```
-
-2. GetQr -- Extract QR img base64 
-
-```go
-result := system.ExtractFunctionsPlugins(
-"2fa",
-"GetQr",
-"user@domain")
-
-fmt.Println(result)
-```
+[@TheRealVizard](https://github.com/TheRealVizard)
 
 ## How to use route
 1. Open webBrowser
