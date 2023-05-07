@@ -28,12 +28,12 @@
         "activeUser": {
             "status": 200,
             "account_state": "TRUE",
-            "uid": "akos",
+            "uid": "pepepp",
             "personal_information": {
-              "dni": "92082643541",
-              "cn": "EDGAR JAVIER PEÑA HERNANDEZ",
-              "given_name": "EDGAR JAVIER",
-              "sn": "PEÑA HERNANDEZ"
+              "dni": "87042543541",
+              "cn": "Pepe Perez Perez",
+              "given_name": "Pepe",
+              "sn": "Perez Perez"
             },
             "account_info": {
               "user_type": "Institucional",
